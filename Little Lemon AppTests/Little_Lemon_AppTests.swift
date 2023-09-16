@@ -2,7 +2,7 @@
 //  Little_Lemon_AppTests.swift
 //  Little Lemon AppTests
 //
-//  Created by Boban Stevanovic on 7.9.23..
+//  Created by Mehdid Samy on 7.9.23..
 //
 
 import XCTest
@@ -20,5 +20,4 @@ final class LittleLemonDinnerMenuTests: XCTestCase {
         let foodIngredient = viewModel.foods[0]
         XCTAssertEqual(foodIngredient.ingredient, [.tomatoSauce, .carrot, .pasta])
     }
-
 }

@@ -2,7 +2,7 @@
 //  MenuItemsOptionView.swift
 //  Little Lemon App
 //
-//  Created by Boban Stevanovic on 9.9.23..
+//  Created by Mehdid Samy on 9.9.23..
 //
 
 import SwiftUI

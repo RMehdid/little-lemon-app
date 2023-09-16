@@ -2,7 +2,7 @@
 //  Little_Lemon_AppApp.swift
 //  Little Lemon App
 //
-//  Created by Boban Stevanovic on 7.9.23..
+//  Created by Mehdid Samy on 7.9.23..
 //
 
 import SwiftUI

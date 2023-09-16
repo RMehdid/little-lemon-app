@@ -2,7 +2,7 @@
 //  MenuItem.swift
 //  Little Lemon App
 //
-//  Created by Boban Stevanovic on 13.9.23..
+//  Created by Mehdid Samy on 13.9.23..
 //
 
 import Foundation

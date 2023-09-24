@@ -1,6 +1,6 @@
 # Little Lemon Dinner Menu App
 
-![App Screenshot](screenshot.png)
+![App Screenshot](/Little Lemon App/Assets.xcassets/logo1.imageset/logo1.png)
 
 ## Overview
 

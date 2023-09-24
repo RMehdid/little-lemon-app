@@ -1,7 +1,3 @@
-Certainly! Here's a template for a README file for your Little Lemon Dinner Menu App hosted on GitHub:
-
----
-
 # Little Lemon Dinner Menu App
 
 ![App Screenshot](screenshot.png)

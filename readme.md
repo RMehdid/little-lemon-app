@@ -64,6 +64,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 If you have any questions or feedback, feel free to reach out:
 
-- Your Samy Abderraouf Mehdid
+- Samy Abderraouf Mehdid
 - Email: sr.mehdid@gmail.com
 - GitHub: [RMehdid](https://github.com/RMehdid)

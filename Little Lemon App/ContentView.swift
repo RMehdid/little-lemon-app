@@ -284,7 +284,7 @@ struct ContentView: View {
                             }
                             
                         }
-                        .scrollDisabled(true)
+//                        .scrollDisabled(true)
                     }
                     
                 }

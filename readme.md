@@ -1,6 +1,6 @@
 # Little Lemon Dinner Menu App
 
-![App Screenshot](logo1.png)
+<img src="logo1.png" alt="image" width="10%" height="auto">
 
 ## Overview
 
